@@ -1,0 +1,25 @@
+a{
+
+font-size: 30px;
+color: black;
+
+}
+
+a:hover{
+
+transition: ease-in  3s;
+
+}
+
+@media(max-width: 1000px){
+
+body{
+
+background: orange;
+
+
+}
+
+
+}
+
